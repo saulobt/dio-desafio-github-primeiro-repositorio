@@ -49,6 +49,7 @@ public class Gato {
     @Override
     public int hashCode() {
         return Objects.hash(nome, cor, idade);
+        
     }
 
     @Override
